@@ -4,7 +4,7 @@
 }
 
 h1 {
-    margin: 10px 20px;
+  margin: 10px 20px;
 }
 
 section {
@@ -60,4 +60,39 @@ h2 {
 
 .color-con {
   margin: 10px 10px;
+}
+
+.font-con div {
+  display: inline-block;
+  width: 30%;
+  margin: 10px 20px;
+}
+
+.font-con div h3 {
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.font-con div p {
+  margin-bottom: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.indieflower p {
+  font-family: "Indie Flower";
+}
+
+.bitter p {
+  font-family: Bitter;
+}
+
+.anton p {
+  font-family: Anton;
 }
