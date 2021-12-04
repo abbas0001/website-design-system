@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+    margin: 10px 20px;
+}
+
+section {
+  border: 1px solid silver;
+  margin: 20px;
+}
+
+h2 {
+  margin: 20px 10px;
+}
+
+.color-con div {
+  display: inline-block;
+  width: 30%;
+  margin-bottom: 10px;
+}
+
+.inkwell {
+  background-color: #363945;
+}
+
+.inkwell p {
+  margin: 20px;
+  color: white;
+}
+
+.buttercream {
+  background-color: #efe1ce;
+}
+
+.buttercream p {
+  margin: 20px;
+  color: black;
+}
+
+.willow {
+  background-color: #9a8b4f;
+}
+
+.willow p {
+  margin: 20px;
+  color: white;
+}
+
+.desertmist {
+  background-color: #e0b589;
+}
+
+.desertmist p {
+  margin: 20px;
+  color: black;
+}
+
+.color-con {
+  margin: 10px 10px;
+}
