@@ -107,17 +107,17 @@ section h2 {
 }
 
 .subhead {
-    font-weight: 500;
-    font-size: 18px;
-    font-family: "Indie Flower";
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Indie Flower";
 }
 
 .phead {
-    font-weight: 400;
-    font-size: 14px;
-    font-family: Bitter;
+  font-weight: 400;
+  font-size: 14px;
+  font-family: Bitter;
 }
 
 li {
-    margin: 10px 30px;
+  margin: 10px 30px;
 }
