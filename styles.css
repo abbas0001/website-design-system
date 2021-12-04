@@ -96,3 +96,7 @@ h2 {
 .anton p {
   font-family: Anton;
 }
+
+.text-con div {
+    margin: 10px 20px;
+}
