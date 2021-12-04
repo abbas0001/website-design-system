@@ -97,8 +97,27 @@ section h2 {
   margin: 10px 20px;
 }
 
-.heading,
-.subheading,
-.paragraph {
-  margin: 10px 800px;
+.heading {
+  margin: 10px 20px;
+}
+.head {
+  font-weight: 700;
+  font-size: 26px;
+  font-family: Anton;
+}
+
+.subhead {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Indie Flower";
+}
+
+.phead {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Bitter;
+}
+
+li {
+    margin: 10px 30px;
 }
